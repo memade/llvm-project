@@ -63,6 +63,8 @@ rem del *.c /s /q /f
 rem del *.cc /s /q /f
 rem del *.o /s /q /f
 rem del *.def /s /q /f
+rem del *.gen /s /q /f
+rem del *.td /s /q /f
 rem del *.cpp /s /q /f
 
 rd /s /q CMakeFiles
