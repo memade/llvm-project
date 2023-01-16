@@ -38,7 +38,6 @@ del *.args /s /q /f
 del *.cfg /s /q /f
 del *.modulemap /s /q /f
 del *.recipe /s /q /f
-del *.inc /s /q /f
 del *.vers /s /q /f
 del *.bin /s /q /f
 del *.check_cache /s /q /f
@@ -49,7 +48,6 @@ del *.py /s /q /f
 del *.configured /s /q /f
 del *.stamp.depend /s /q /f
 del *.txt /s /q /f
-del *.res /s /q /f
 del *.rule /s /q /f
 del *.pc /s /q /f
 del *.spec /s /q /f
@@ -57,6 +55,8 @@ del *.sln /s /q /f
 
 del *.iobj /s /q /f
 del *.ipdb /s /q /f
+rem del *.res /s /q /f
+rem del *.inc /s /q /f
 rem del *.pdb /s /q /f
 rem del *.h /s /q /f
 rem del *.c /s /q /f
